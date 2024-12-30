@@ -42,6 +42,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 
 ### What I may do<sup>1</sup>:
 
+- Rotate the main switches.
 - Change the `USB-C` location.
 - Add open hardware logo on silk.
 - Make it compatible with choc V2 switches.
