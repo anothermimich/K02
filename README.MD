@@ -43,9 +43,11 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 ### What I may do<sup>1</sup>:
 
 - Change the `USB-C` location.
+- Add open hardware logo on silk.
 - Make it compatible with choc V2 switches.
 - Change the `USB-C` connector to mid-mount 6p.
 - Design some _minimalist_ and _low profile_ cases.
+- Extend the manual to include [ZMK](https://zmk.dev/) flashing process.
 - Create an 36 keys pcb with breakpoints/mousebites.
 - Add a variation with choc spacing for [CFX keycaps](https://kbd.news/CFX-keycap-1553.html) (16,5mm x 16,5mm).
 
