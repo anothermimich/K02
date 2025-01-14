@@ -1,11 +1,3 @@
-# Assembly manual
-
-Check the [assembly manual](https://github.com/anothermimich/K02/blob/main/other/manuals/k02-assembly-manual.pdf) for a detailed guide on the process of putting this board together.
-
-<a href="/other/manuals/k02-assembly-manual.pdf" float="center">
-<img src="/other/img/k02-assembly-manual-display.jpg" width="100%" />
-</a>
-
 # Production files
 
 The [gerber files can be found in the release section.](https://github.com/anothermimich/K02/releases)
@@ -34,6 +26,10 @@ The [gerber files can be found in the release section.](https://github.com/anoth
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2    | USB-C connector ([TYPE-C-31-M-17](https://www.lcsc.com/datasheet/lcsc_datasheet_2410010030_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf)) |
 | 1    | USB-C cable                                                                                                                                  |
+
+# Assembly manual
+
+Check the [assembly manual](https://github.com/anothermimich/K02/blob/main/other/manuals/k02-assembly-manual.pdf) for a detailed guide on the process of putting this board together.
 
 # PCB
 
