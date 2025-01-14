@@ -80,12 +80,12 @@ I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.ins
 
 ## Keymap
 
-As this redesign have not changed the pin out the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) you can use any compatible keymap/firmware. 
+As this redesign have not changed the pin out the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) you can use any compatible keymap/firmware.
 
 Currenty I'm using the above [zmk](https://zmk.dev/) keymap, you can replicate it with [this files](https://github.com/anothermimich/zmk-config-k02).
 
 <a href="https://github.com/anothermimich/zmk-config-k02" float="center">
-<img src="/other/img/k02-keymap.svg" width="96%" />
+<img src="https://github.com/anothermimich/zmk-config-k02/other/img/my_keymap.svg" width="96%" />
 </a>
 
 > I've tried to use the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour), but I was not able to adapt it to my needs. If you want to see my initial setup take a look at the [compiled firmware](/other/keymaps/) or the source [github workflow](https://github.com/anothermimich/miryoku_zmk/blob/master/.github/workflows/workflow-build-k02.yml), [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h), [cradio_left.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_left.conf) and [cradio_right.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_right.conf) files.
