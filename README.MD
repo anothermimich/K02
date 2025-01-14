@@ -88,7 +88,7 @@ Currenty I'm using the above [zmk](https://zmk.dev/) keymap, you can replicate i
 <img src="https://github.com/anothermimich/zmk-config-K02/blob/main/other/img/k02-keymap.jpg" width="96%" />
 </a>
 
-> I've tried to use the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour), but I was not able to adapt it to my needs. If you want to see my initial setup take a look at the [compiled firmware](/other/keymaps/) or the source [github workflow](https://github.com/anothermimich/miryoku_zmk/blob/master/.github/workflows/workflow-build-k02.yml), [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h), [cradio_left.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_left.conf) and [cradio_right.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_right.conf) files.
+> I've tried to use the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour), but I was not able to adapt it to my needs. If you want to see my initial setup take a look at the [compiled firmware](/other/old%20miryoku%20keymaps/) or the source [github workflow](https://github.com/anothermimich/miryoku_zmk/blob/master/.github/workflows/workflow-build-k02.yml), [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h), [cradio_left.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_left.conf) and [cradio_right.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_right.conf) files.
 
 ## Disclaimer
 
