@@ -7,7 +7,7 @@
 </p>
 
 <p float="left">
-  <img src="/other/img/logo.svg" width="23%" />
+  <img src="/other/img/logo.svg" width="15%" />
 </p>
 
 **Less, but better.** - Dieter Rams
