@@ -1,6 +1,6 @@
-<h1 float="center">
+<p float="center">
   <img src="/other/img/hero.jpg" width="96%" /> 
-</h1>
+</p>
 
 **Less, but better.** - Dieter Rams
 
