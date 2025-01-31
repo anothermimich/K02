@@ -6,7 +6,6 @@ The [gerber files can be found in the release section.](https://github.com/anoth
 
 | Quantity | What                                                                                                                              |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 2        | Controller ([nrf52840 or pro micro compatible](https://github.com/joric/nrfmicro/wiki/Alternatives))                              |
 | 34       | Switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf)) |
 | 34       | Keycaps choc v1 spaced ([MBK](https://fkcaps.com/keycaps/mbk) are the ideal size)                                                 |
 | 2        | Reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                |
@@ -15,17 +14,20 @@ The [gerber files can be found in the release section.](https://github.com/anoth
 
 ## Wireless
 
-| What | Quantity                        |
-| ---- | ------------------------------- |
-| 2    | Power switches (MSK 12C02)      |
-| 2    | Lithium battery (301230 110mah) |
+| What | Quantity                                                                     |
+| ---- | ---------------------------------------------------------------------------- |
+| 2    | Controller ([nrf52840](https://github.com/joric/nrfmicro/wiki/Alternatives)) |
+| 2    | Power switches (MSK 12C02)                                                   |
+| 2    | Lithium battery (301230 110mah)                                              |
 
 ## Wired
 
 | What | Quantity                                                                                                                                     |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2    | Controller ([QMK pro micro compatible mcu](https://github.com/qmk/qmk_firmware/blob/master/docs/compatible_microcontrollers.md))             |
+| 1    | USB Cable (depends on the micro-controller used)                                                                                             |
 | 2    | USB-C connector ([TYPE-C-31-M-17](https://www.lcsc.com/datasheet/lcsc_datasheet_2410010030_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf)) |
-| 1    | USB-C cable                                                                                                                                  |
+| 1    | USB-C to USB-C cable                                                                                                                         |
 
 # Assembly manual
 
