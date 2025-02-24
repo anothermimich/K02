@@ -66,8 +66,6 @@ The list of materials for each version are inside of the respective folder, [USB
 
 As the pcb doesn't have any information guiding the assembly, I have done an [assembly manual with visual instructions](/other/manuals/k02-assembly-manual.pdf).
 
-> The assembly manual has some minor issues concerning the MCU and required parts for the wired build, until I got around to fix them on the next release check the [USB-C](/USB-C/README.MD) and [TRRS](/TRRS/README.MD) folders to see the exact parts list.
-
 <a href="/other/manuals/k02-assembly-manual.pdf" float="center">
 <img src="/other/img/k02-assembly-manual-display.jpg" width="96%" />
 </a>
