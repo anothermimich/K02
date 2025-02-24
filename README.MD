@@ -86,7 +86,7 @@ Currenty I'm using the above [zmk](https://zmk.dev/) keymap, you can replicate i
 
 ## Disclaimer
 
-The files in this repo may contain problems, use the files at your own risk.
+The files in this repo may contain problems, use them at your own risk.
 
 For the type nerds _(like me)_, the text on the PCB and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
 
