@@ -1,12 +1,12 @@
 <p float="center">
-  <img src="/other/img/hero.jpg" width="96%" /> 
+  <img src="/other/img/photos/img (1).jpg" width="96%" /> 
+  <img src="/other/img/photos/img (6).jpg.jpg" width="48%" /> 
+  <img src="/other/img/photos/img (7).jpg.jpg" width="48%" /> 
 </p>
 
 **Less, but better.** - Dieter Rams
 
-After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept the things the way they are. So I've done some experimentation with it.
-
-I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design
+After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept things the way they are. So I've done some experimentation with it. I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design.
 
 This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep). In other words this is a:
 
@@ -57,16 +57,16 @@ I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.ins
 
 ## Versions
 
-At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. The `TRRS` connector are objectively worse than the `USB-C` for this use case, due to it introducing a risk of short in the case that the halves are unpluged with the board powered on. On the other side, the `USB-C` if not wired correctly may introduce a [risk of being connected directly to a power supply](https://docs.qmk.fm/features/split_keyboard) by mistake. I've done the bare minimum to prevent it, I wired the `GND` and `VCC` trying to follow the USB protocol. Another problem with the `USB-C` is that this implementation doesn't follow the USB protocol, it just hijack some of the data pins.
+The `rev. 01` contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. The `TRRS` connector are objectively worse than the `USB-C` for this use case, due to it introducing a risk of short in the case that the halves are unpluged with the board powered on. On the other side, the `USB-C` if not wired correctly may introduce a [risk of being connected directly to a power supply](https://docs.qmk.fm/features/split_keyboard) by mistake. I've done the bare minimum to prevent it, I wired the `GND` and `VCC` trying to follow the USB protocol. Another problem with the `USB-C` is that this implementation doesn't follow the USB protocol, it just hijack some of the data pins.
 
 The [gerber files are in the release section.](https://github.com/anothermimich/K02/releases)
 The list of materials for each version are inside of the respective folder, [USB-C](/USB-C/README.MD) and [TRRS](/TRRS/README.MD).
 
 ## Assembly
 
-As the pcb doesn't have any information guiding the assembly, I have done an [manual with visual instructions](/other/manuals/k02-assembly-manual.pdf).
+As the pcb doesn't have any information guiding the assembly, I have done an [assembly manual with visual instructions](/other/manuals/k02-assembly-manual.pdf).
 
-The assembly manual has some minor issues concerning the MCU and required parts for the wired build, until I got around to fix them on the next release check the [USB-C](/USB-C/README.MD) and [TRRS](/TRRS/README.MD) folders to see the exact parts list.
+> The assembly manual has some minor issues concerning the MCU and required parts for the wired build, until I got around to fix them on the next release check the [USB-C](/USB-C/README.MD) and [TRRS](/TRRS/README.MD) folders to see the exact parts list.
 
 <a href="/other/manuals/k02-assembly-manual.pdf" float="center">
 <img src="/other/img/k02-assembly-manual-display.jpg" width="96%" />
@@ -74,7 +74,7 @@ The assembly manual has some minor issues concerning the MCU and required parts 
 
 ## Keymap
 
-As this redesign have not changed the pin out the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) you can use any compatible keymap/firmware.
+As the `rev. 01` maintain the pin out of the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) you can use any compatible keymap/firmware.
 
 Currenty I'm using the above [zmk](https://zmk.dev/) keymap, you can replicate it with [this files](https://github.com/anothermimich/zmk-config-k02).
 
@@ -86,7 +86,7 @@ Currenty I'm using the above [zmk](https://zmk.dev/) keymap, you can replicate i
 
 ## Disclaimer
 
-The files in this repo may contain problems, use them at your own risk.
+The files in this repo may contain problems, use the files at your own risk.
 
 For the type nerds _(like me)_, the text on the PCB and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
 
