@@ -1,7 +1,7 @@
 <p float="center">
   <img src="/other/img/photos/img (1).jpg" width="96%" /> 
-  <img src="/other/img/photos/img (6).jpg.jpg" width="48%" /> 
-  <img src="/other/img/photos/img (7).jpg.jpg" width="48%" /> 
+  <img src="/other/img/photos/img (6).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (7).jpg" width="48%" /> 
 </p>
 
 **Less, but better.** - Dieter Rams
