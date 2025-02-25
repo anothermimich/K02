@@ -1,6 +1,6 @@
 # Production files
 
-The [gerber files can be found in the release section.](https://github.com/anothermimich/K02/releases)
+When this version get ready for adoption the [gerber files will be posted in the release section.](https://github.com/anothermimich/K02/releases)
 
 # Necessary Components
 
