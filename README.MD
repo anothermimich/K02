@@ -57,7 +57,7 @@ I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.ins
 
 ## Versions
 
-The `rev. 02` introduces an hybrid version of the `USB-C` pcb. This version remains _untested_, in theory it's compatible with kailh choc switches v1 and v2. Beware that the keycaps need to be choc spaced.
+The `rev. 02` introduces an hybrid version of the `USB-C` pcb. This version remains in development and so it's _untested_, in theory it's compatible with kailh choc switches v1 and v2. Beware that the keycaps need to be choc spaced.
 
 The `rev. 01` contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. The `TRRS` connector are objectively worse than the `USB-C` for this use case, due to it introducing a risk of short in the case that the halves are unpluged with the board powered on. On the other side, the `USB-C` if not wired correctly may introduce a [risk of being connected directly to a power supply](https://docs.qmk.fm/features/split_keyboard) by mistake. I've done the bare minimum to prevent it, I wired the `GND` and `VCC` trying to follow the USB protocol. Another problem with the `USB-C` is that this implementation doesn't follow the USB protocol, it just hijack some of the data pins.
 
