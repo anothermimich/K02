@@ -1,4 +1,4 @@
-892872409216236
+891131910841949
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102150,13 +102150,6 @@ igbt diode module
 0
 25
 25
-User Library
-choc_v1_v2_rev_inv
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-5
-2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
