@@ -18,7 +18,7 @@ The [gerber files can be found in the release section.](https://github.com/anoth
 | ---- | ---------------------------------------------------------------------------- |
 | 2    | Controller ([nrf52840](https://github.com/joric/nrfmicro/wiki/Alternatives)) |
 | 2    | Power switches (MSK 12C02)                                                   |
-| 2    | Lithium battery (301230 110mah)                                              |
+| 2    | Lithium battery ([301230](https://github.com/joric/nrfmicro/wiki/Batteries)) |
 
 ## Wired
 
