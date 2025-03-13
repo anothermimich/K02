@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_02800005",
+    "visible_layers": "00000000_00000000_00000000_02a000a5",
     "zone_display_mode": 1
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "K02-USB-C-HYBRID.kicad_prl",
+    "filename": "K02-USB-C.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
