@@ -4,13 +4,13 @@ When this version get ready for adoption the [gerber files will be posted in the
 
 # Necessary Components
 
-| Quantity | What                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 34       | Switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf) or [Kailh PG1353/choc V2]()) |
-| 34       | Keycaps choc MBK spaced                                                                                                                                       |
-| 2        | Reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                                            |
-| 4        | Header ([12pin](https://github.com/joric/nrfmicro/wiki/Sockets))                                                                                              |
-| 10       | Rubber feet (8mm x 2mm)                                                                                                                                       |
+| Quantity | What                                                                                                                              |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 34       | Switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf)) |
+| 34       | Keycaps choc CFX spaced                                                                                                           |
+| 2        | Reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                |
+| 4        | Header ([12pin](https://github.com/joric/nrfmicro/wiki/Sockets))                                                                  |
+| 10       | Rubber feet (8mm x 2mm)                                                                                                           |
 
 ## Wireless
 
