@@ -40,7 +40,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Make it compatible with choc V2 switches.
 - Design some _minimalist_ and _low profile_ cases.
 
-> <sup>1</sup> The main reason for not doing this at the moment is the lack of financial motivation. As I have to pay for every prototype and take time off to do the development and iterations I have to be mindful of the tasks I take. If you want to help [contact me](https://www.reddit.com/user/kynikoi_/) :)
+> <sup>1</sup> The main reason for not doing this at the moment is the lack of financial motivation. As I have to pay for every prototype and take time off to do the development and iterations I have to be mindful of the tasks I take. If you want to help [buy me a coffee](https://ko-fi.com/luimmich) or [contact me](https://www.reddit.com/user/kynikoi_/) :)
 
 ## Silk art
 
